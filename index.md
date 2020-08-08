@@ -4,7 +4,7 @@
 
 ### Computer Science
 
-[IOS Mobile App: Meal Tracker](https://github.com/JacobGonzales/MobileIOS-MealTracker)
+[IOS Mobile App: Meal Tracker](https://jacobgonzales.github.io/MobileIOS-MealTracker/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
