@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Computer Science
 
 [IOS Mobile App: Meal Tracker](https://github.com/JacobGonzales/MobileIOS-MealTracker)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
