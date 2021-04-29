@@ -2,14 +2,14 @@ title: Jacob Gonzales # your name (or website title) here
 logo: "/images/IMG_3283.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Summary:
-  <br><br>
+  <br>
   - Recent Computer Science Graduate. <br>
   - 1 year of experience in a team providing IT Support for 5 university buildings. <br>
   - 4 years of experience in customer service. <br>
   - Eager to support a dev team with problem solving applying coding knowledge and utilizing social skills to deliver a positive team and client experience. <br>
   <br><br>
   Profile Links:
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/jacob-gonzales-75981a1b5/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
