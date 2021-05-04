@@ -24,7 +24,11 @@
 
 ---
 [Student Project Time Tracker](https://github.com/JacobGonzales/timetracker)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CS4450/CS4550LoginScreen.PNG?raw=true"/>
+<img src="images/CS4450/CS4450Dashboard.PNG?raw=true"/>
+<img src="images/CS4450/CS4450Dashboard2.PNG?raw=true"/>
+<img src="images/CS4450/CS4450Group.PNG?raw=true"/>
+<img src="images/CS4450/CS4550Eval.PNG?raw=true"/>
 
 ---
 
