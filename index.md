@@ -19,11 +19,11 @@
 
 
 ---
-[Project 2 Title](https://github.com/JacobGonzales/WIldcatMicro_Group2) [comment]:<(/pdf/sample_presentation.pdf)>
+[Wildcat Micro Fund](https://github.com/JacobGonzales/WIldcatMicro_Group2) [comment]:<(/pdf/sample_presentation.pdf)>
 <img src="images//WildcatMicroFund/WildCatMicroFundLogin.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Student Project Time Tracker](https://github.com/JacobGonzales/timetracker)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
