@@ -13,7 +13,10 @@
 ### Computer Science Degree Projects
 
 [IOS Mobile App: Meal Tracker](https://jacobgonzales.github.io/MobileIOS-MealTracker/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/FinalProjectCS3260/FinalProject3Screen3260.png?raw=true"/>
+<img src="images/FinalProjectCS3260/FinalProject2Screen3260.png?raw=true"/>
+<img src="images/FinalProjectCS3260/FinalProjectStoryBoard3260.png?raw=true"/>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
