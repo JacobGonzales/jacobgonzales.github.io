@@ -2,7 +2,7 @@
 
 ---
 
-### Computer Science
+### Computer Science Degree Projects
 
 [IOS Mobile App: Meal Tracker](https://jacobgonzales.github.io/MobileIOS-MealTracker/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
