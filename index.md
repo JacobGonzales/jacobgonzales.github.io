@@ -1,5 +1,7 @@
 ## Portfolio
-
+  <a href="https://github.com/JacobGonzales" class="view">View My GitHub Profile</a>
+  <br>
+  <a href="https://www.linkedin.com/in/jacob-gonzales-75981a1b5/" class="view">View My LinkedIn Profile</a>
 ---
 
 ### Computer Science Degree Projects
