@@ -35,7 +35,7 @@
 ### Extra Projects
 
 - [WPF Group Project](https://github.com/JacobGonzales/WPFGroupProject)
-- [Project 2 Title](http://example.com/)
+- [Android 2048 Game](https://github.com/JacobGonzales/Android2048Final)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
