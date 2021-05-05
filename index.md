@@ -37,10 +37,6 @@
 - [WPF Group Project](https://github.com/JacobGonzales/WPFGroupProject)
 - [Android 2048 Game](https://github.com/JacobGonzales/Android2048Final)
 - [SQL Database Group Project](https://github.com/JacobGonzales/SQLGroupProject)
-<!-- 
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
--->
 
 ---
 
