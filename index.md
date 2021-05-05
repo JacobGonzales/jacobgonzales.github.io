@@ -19,7 +19,7 @@
 
 
 ---
-[Wildcat Micro Fund](https://github.com/JacobGonzales/WIldcatMicro_Group2)
+[Wildcat Micro Fund](https://github.com/JacobGonzales/WildCatMicroFund)
 <img src="images//WildcatMicroFund/WildCatMicroFundLogin.PNG?raw=true"/>
 
 ---
